@@ -1,0 +1,8 @@
+Package: enigma2-plugin-extensions-lottode
+Version: 1.0.0
+Section: extra
+Priority: optional
+Architecture: all
+Maintainer: madoe21 <https://github.com/madoe21>
+Depends: enigma2, ca-certificates
+Description: Zeigt Eurojackpot und LOTTO 6aus49 Wochenzahlen auf Enigma2
