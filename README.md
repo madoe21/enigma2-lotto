@@ -1,5 +1,7 @@
 # Lotto DE – Enigma2 Plugin
 
+[![Built with aiflow](https://img.shields.io/badge/built%20with-aiflow-6b46c1)](https://github.com/cyber93de/aiflow)
+
 Enigma2 plugin that displays the lottery numbers of the **current week**:
 
 - **Eurojackpot**: Tuesday and Friday
